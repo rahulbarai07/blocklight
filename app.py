@@ -11,7 +11,7 @@ st.caption("Market State Discovery · Historical Context")
 
 @st.cache_data
 def load_data():
-    return pd.read_parquet("/Users/rahulbarai/Desktop/blocklight Beta/real_distribution_sheet2.csv")
+    return pd.read_csv("/Users/rahulbarai/Desktop/blocklight Beta/real_distribution_sheet2.csv")
 
 df = load_data()
 
