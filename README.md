@@ -178,11 +178,3 @@ All data is historical. No guarantees of future performance are implied.
 
 ---
 
-If you want, next we can:
-
-* Tighten this README for public launch
-* Add a short “How to read the heatmap” section
-* Prepare a v1.2 roadmap doc
-* Or write documentation directly inside the app
-
-Just tell me what you want to do next.
